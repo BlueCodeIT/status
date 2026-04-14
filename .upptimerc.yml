@@ -3,8 +3,6 @@ repo: status
 sites:
   - name: Deployment Guard API
     url: https://api.bluecodeit.com/health
-  - name: BlueCode IT Website
-    url: https://www.bluecodeit.com
 assignees:
   - BlueCodeIT
 status-website:
