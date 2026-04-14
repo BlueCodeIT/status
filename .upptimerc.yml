@@ -10,6 +10,7 @@ status-website:
   name: BlueCode IT Status
   introTitle: "**BlueCode IT** · System Status"
   introMessage: Echtzeit-Status aller BlueCode IT Dienste.
+  theme: dark
   navbar:
     - title: Status
       href: /
