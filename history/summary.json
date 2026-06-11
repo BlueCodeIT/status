@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bluecodeit.com.ico",
     "slug": "deployment-guard-api",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "64.02%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.37%",
+    "uptime": "97.63%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "80.45%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "97.63%",
     "time": 4337,
     "timeDay": 0,
-    "timeWeek": 2207,
-    "timeMonth": 4614,
+    "timeWeek": 2509,
+    "timeMonth": 4749,
     "timeYear": 4337,
     "dailyMinutesDown": {
-      "2026-06-10": 254,
+      "2026-06-11": 267,
+      "2026-06-10": 1440,
       "2026-06-09": 264
     }
   }
