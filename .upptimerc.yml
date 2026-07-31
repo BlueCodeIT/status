@@ -1,20 +1,20 @@
-owner: BlueCodeIT
+owner: PantevoSystems
 repo: status
 sites:
   - name: Deployment Guard API
-    url: https://api.bluecodeit.com/health
+    url: https://api.pantevosystems.com/health
 assignees:
-  - BlueCodeIT
+  - PantevoSystems
 status-website:
-  cname: status.bluecodeit.com
-  name: BlueCode IT Status
-  introTitle: "**BlueCode IT** · System Status"
-  introMessage: Echtzeit-Status aller BlueCode IT Dienste.
+  cname: status.pantevosystems.com
+  name: Pantevo Systems Status
+  introTitle: "**Pantevo Systems** · System Status"
+  introMessage: Echtzeit-Status aller Pantevo Systems Dienste.
   theme: dark
   navbar:
     - title: Status
       href: /
-    - title: BlueCode IT
-      href: https://www.bluecodeit.com
+    - title: Pantevo Systems
+      href: https://www.pantevosystems.com
     - title: Deployment Guard
-      href: https://www.bluecodeit.com/deployment-guard
+      href: https://www.pantevosystems.com/deployment-guard
