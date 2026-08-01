@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Deployment Guard API",
+    "url": "https://api.pantevosystems.com/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pantevosystems.com.ico",
+    "slug": "deployment-guard-api",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 4181,
+    "timeDay": 554,
+    "timeWeek": 3574,
+    "timeMonth": 3941,
+    "timeYear": 4181,
+    "dailyMinutesDown": {
+      "2026-06-13": 792,
+      "2026-06-12": 1440,
+      "2026-06-11": 1440,
+      "2026-06-10": 1440,
+      "2026-06-09": 264
+    }
+  }
+]
